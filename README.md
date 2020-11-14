@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Coding Samples
 
-You can use the [editor on GitHub](https://github.com/Samhit0224/CodingSamples/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Dragon Game](https://scratch.mit.edu/projects/417438253/) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
